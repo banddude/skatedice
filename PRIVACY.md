@@ -1,6 +1,6 @@
 # Privacy Policy for Skate Dice Pro
 
-**Effective Date:** December 2024
+**Effective Date:** September 2025
 
 ## Introduction
 
@@ -41,10 +41,9 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at:
+If you have any questions about this privacy policy, please contact us by creating an issue on Github at:
 - GitHub: https://github.com/banddude/skatedice
-- Email: support@skatedice.app
 
 ---
 
-This privacy policy was last updated on December 2024.
+This privacy policy was last updated on September 2025.
